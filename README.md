@@ -1,7 +1,7 @@
 # weekdays
 A react native app (for learning purpose)
 
-![Screenshot](https://raw.githubusercontent.com/kaleem-elahi/weekdays/blob/master/Screen%20Shot%202018-11-29%20at%206.19.47%20PM.png"Weekdays on IphoneXR")
+![Screenshot](https://raw.githubusercontent.com/kaleem-elahi/weekdays/master/Screen%20Shot%202018-11-29%20at%206.19.47%20PM.png "Weekdays on IphoneXR")
 
 
 ## Getting Started: using `cmd`
